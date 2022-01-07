@@ -14,6 +14,3 @@ Vault provides to create a folder with a really simple program. This folder will
 
 # really important
 You must save the file as .bat, so that windows will execute it. If you just copy the strings and paste them into notepad, it won't work. Please download directly the file.
-
-
-Made by ilpoppattuso.
