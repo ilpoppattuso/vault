@@ -14,3 +14,8 @@ Vault provides to create a folder with a really simple program. This folder will
 
 # really important
 You must save the file as .bat, so that windows will execute it. If you just copy the strings and paste them into notepad, it won't work. Please download directly the file.
+If Windows blocks the program, just click on Run Anyway, or, if it doesn't appear, click on More Informations and on Run Anyway. The program doesn't contain any virus.
+
+
+
+![Screenshot (50)](https://user-images.githubusercontent.com/97309135/148599818-f9b2177a-3359-4fd3-b961-0876ac998ebc.png)
