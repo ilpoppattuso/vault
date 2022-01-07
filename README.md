@@ -2,7 +2,7 @@
 create a protected folder named "Vault", and choose your own password.
 
 
-###INSTRUCTIONS###
+# INSTRUCTIONS
 Edit the file with Notepad.
 Change "ENTER-YOUR-PASSWORD-THERE" with your password and save the file.
 Open the file.
